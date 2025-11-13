@@ -18,3 +18,6 @@ student_timetable-ind student timetable
 department summary for sum
 plot enrollment-for graph
 analyze enrollment -for sum and grap
+
+video link
+https://drive.google.com/file/d/1U7fmowRMGuZqDHaViRq2zfWhyKEAhZ0m/view?usp=drive_link
